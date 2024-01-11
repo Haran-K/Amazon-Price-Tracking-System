@@ -1,6 +1,6 @@
 # Amazon Price Tracker
 A simple web scraping project in Python 3. 
-* Track the price of an item on [Amazon UK](https://www.amazon.co.uk/) and get an email (only Gmail supported now) when the price
+* Track the price of an item on Amazon and get an email (only Gmail supported now) when the price
 of the product drops and is available at a discounted rate!
 * Written for fun after watching a basic YouTube [tutorial](https://www.youtube.com/watch?v=Bg9r_yLk7VY&t=1s) by 
 [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q).
